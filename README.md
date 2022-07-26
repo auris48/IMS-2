@@ -1,11 +1,14 @@
 Coverage: 34%
-# Project Title
+# IMS-Starter Project
 
-One Paragraph of project description goes here
+In this project I was tasked to create a CRUD application that allows the user to create, read, update and delete order, items and customers.
+
 
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+
+
 
 ### Prerequisites
 
