@@ -9,6 +9,7 @@ public class Item {
     private LocalDate itemStockDate;
     private String itemDescription;
     private double itemPrice;
+    //comments
 
     public Long getId() {
         return id;
