@@ -1,1 +1,2 @@
 INSERT INTO `customers` (`first_name`, `surname`) VALUES ('jordan', 'harrison');
+INSERT INTO `items`(item_name, item_stockdate, item_description, item_price) VALUES  ('Spiderman Toy', '2003-04-03', 'Spiderman figurine toy', 10.00);

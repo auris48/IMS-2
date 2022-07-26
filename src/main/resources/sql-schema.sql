@@ -10,3 +10,4 @@ CREATE TABLE IF NOT EXISTS `ims`.`customers` (
     `surname` VARCHAR(40) DEFAULT NULL,
     PRIMARY KEY (`id`)
 );
+
