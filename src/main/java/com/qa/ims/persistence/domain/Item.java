@@ -10,6 +10,7 @@ public class Item {
     private String itemDescription;
     private double itemPrice;
     //comments
+    //comments
 
     public Long getId() {
         return id;
